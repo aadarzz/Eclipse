@@ -13,7 +13,6 @@ import io.appium.java_client.AppiumDriver;
 public class trial {
 	
 	static AppiumDriver driver;
-
 	
 	public static void main(String[]args){
 	try{
