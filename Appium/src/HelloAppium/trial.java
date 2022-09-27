@@ -10,8 +10,6 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 import io.appium.java_client.AppiumDriver;
 
 
-
-
 public class trial {
 	
 	static AppiumDriver driver;
@@ -26,8 +24,7 @@ public class trial {
 		        System.out.print(exp.getCause());
 		        System.out.print(exp.getMessage());
 		        exp.printStackTrace();
-		} 
-		        
+		} 		        
 	} 
 		  
 	public static void openCalculator()throws Exception{
