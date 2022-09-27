@@ -67,8 +67,7 @@ public class trial {
 			  else
 			  {
 				  System.out.println("Test Failed \n Result="+res);
-			  }
-			 			  			  
+			  }			 			  			  
 			  
 		driver.quit();
 		System.out.print("---Test Completed---");
